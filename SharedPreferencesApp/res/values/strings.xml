@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SharedPreferencesApp</string>
+    <string name="text_hint">テキストを入力してください。</string>
+    <string name="text_empty">ここに保存されたデータが表示されます</string>
+    <string name="button_add">保存</string>
+    <string name="button_show">表示</string>
+    <string name="button_delete">削除</string>
+
+</resources>
