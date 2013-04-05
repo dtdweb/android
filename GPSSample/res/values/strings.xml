@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GPSSample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="button_search_network">位置計測(Network)</string>
+    <string name="button_search_gps">位置計測(GPS)</string>
+    <string name="string_lat">緯度</string>
+    <string name="string_lng">経度</string>
+    <string name="title_network_provider">ネットワークプロバイダからの取得値:</string>
+    <string name="title_gps_provider">GPSプロバイダからの取得値:</string>
+    
+
+</resources>
